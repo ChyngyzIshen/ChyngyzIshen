@@ -1,15 +1,12 @@
 <div align="center">
-<img src="https://d.ibtimes.co.uk/en/full/1355366/duqu-2-malware-uncovered.webp?w=736&f=608f92b2a778b18dd48adbc77f382f26" align="center" style="width: 100%" />
+<img src="https://www.technojobs.co.uk/info/sites/www.technojobs.co.uk/files/styles/article_image_large/public/Blog%20Banner%20%2842%29.png?itok=kr_38j8u" align="center" style="width: 100%" />
 </div>  
-  
 
 ### <div align="center">Mainly focused on Backend & DevOps</div>  
-  
 
 <br/>  
 
-
-## Languages and Tools  
+## Languages and Tools 
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
@@ -64,34 +61,18 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
 <br/>  
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ChyngyzIshen&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
-
 ## 
-  
-
-<br/>  
-
-  
 
 <br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ChyngyzIshen&&style=flat-square" align="center" />
 </div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
