@@ -69,9 +69,7 @@
 <br/>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=i-Coderr&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-Coderr&hide=stars&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
 
 ## 
 
