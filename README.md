@@ -69,10 +69,11 @@
 <br/>  
 
 ## GitHub Stats  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-Coderr&hide=stars&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
-
-## GitHub Streak
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-Coderr&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=i-Coderr&theme=tokyonight)](https://git.io/streak-stats)
+
+## 
+
 <br/>  
 
 <div align="center">
