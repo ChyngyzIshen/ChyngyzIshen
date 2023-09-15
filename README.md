@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.technojobs.co.uk/info/sites/www.technojobs.co.uk/files/styles/article_image_large/public/Blog%20Banner%20%2842%29.png?itok=kr_38j8u" align="center" style="width: 100%" />
+<img src="https://project-assets.showwcase.com/59098/1678549778614-5ffd847fac7b0152425371ac_5fe3a4a2ffada1c7618c9ebe_.png" align="center" style="width: 100%" />
 </div>  
 
 ### <div align="center">Mainly focused on Backend & DevOps</div>  
@@ -65,10 +65,6 @@
 </div>  
 
 <br/>  
-
-## GitHub Stats  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-Coderr&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=i-Coderr&theme=tokyonight)](https://git.io/streak-stats)
 
 ## 
 
