@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://f4n3x6c5.stackpathcdn.com/article/devops-implementation-of-cicd-in-microsoft-dynamics-crm/Images/DevOps%20Implementation%20Of%20CI%20CD%20In%20Microsoft%20Dynamics%20CRM.png" align="center" style="width: 100%" />
+<img src="https://www.plutora.com/wp-content/uploads/2019/03/DevSecOps-Diagram.png" align="center" style="width: 100%" />
 </div>  
 
 ### <div align="center">Mainly focused on Backend & DevOps</div>  
