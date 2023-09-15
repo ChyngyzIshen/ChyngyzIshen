@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.plutora.com/wp-content/uploads/2019/03/DevSecOps-Diagram.png" align="center" style="width: 50%" />
+<img src="https://www.plutora.com/wp-content/uploads/2019/03/DevSecOps-Diagram.png" align="center" style="width: 65%" />
 </div>  
 
 ### <div align="center">Mainly focused on Backend & DevOps</div>  
