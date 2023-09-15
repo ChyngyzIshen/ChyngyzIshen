@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://project-assets.showwcase.com/59098/1678549778614-5ffd847fac7b0152425371ac_5fe3a4a2ffada1c7618c9ebe_.png" align="center" style="width: 100%" />
-</div>  
-
 ### <div align="center">Mainly focused on Backend & DevOps</div>  
 
 <br/>  
