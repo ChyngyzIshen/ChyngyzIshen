@@ -1,7 +1,3 @@
-### <div align="center">Mainly focused on Backend & DevOps</div>  
-
-<br/>  
-
 ## Languages and Tools 
 <table><tr><td valign="top" width="33%">
 
