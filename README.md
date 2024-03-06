@@ -33,6 +33,7 @@
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/max/1400/1*b_al7C5p26tbZG4sy-CWqw.png" alt="AWS" height="50" /></a>  
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a> 
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://azure.microsoft.com/en-us" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/M/microsoft-azure-logo-85055C44BE-seeklogo.com.png" alt="Azure" height="50" /></a>  
 </div>
 
 </td></tr></table>  
