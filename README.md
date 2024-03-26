@@ -36,7 +36,7 @@
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://azure.microsoft.com/en-us/products/devops" target="_blank"><img style="margin: 10px" src="https://cdn-images-1.medium.com/v2/resize:fit:480/1*iemC2V8xo9cuWpcrw5cewg.png" alt="AzureDevops" height="50" /></a>
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" height="50" /></a>
-<a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"><img style="margin: 10px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/flask-logo-icon.png" alt="Flask" height="50" /></a>
+<a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"><img style="margin: 10px" src="https://flask.palletsprojects.com/en/latest/_static/flask-vertical.png" alt="Flask" height="50" /></a>
 </div>
 
 </td></tr></table>  
