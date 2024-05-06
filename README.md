@@ -33,7 +33,8 @@
 <a href="https://logz.io/blog/kibana-tutorial/" target="_blank"><img style="margin: 10px" src="https://brandslogos.com/wp-content/uploads/thumbs/elastic-kibana-logo-vector.svg" alt="Kibana" height="50" /></a> 
 <a href="https://circleci.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Circleci-icon-logo.svg/475px-Circleci-icon-logo.svg.png" alt="Circleci" height="50" /></a>  
 <a href="https://github.com/features/actions" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" alt="GitHub Actions" height="50" /></a> 
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>   
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
+<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://juststickers.in/wp-content/uploads/2018/11/kubernetes-wordmark.png" alt="Kubernetes" height="50" /></a>
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/max/1400/1*b_al7C5p26tbZG4sy-CWqw.png" alt="AWS" height="50" /></a>  
 <a href="https://azure.microsoft.com/en-us" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/M/microsoft-azure-logo-85055C44BE-seeklogo.com.png" alt="Azure" height="50" /></a>
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a> 
