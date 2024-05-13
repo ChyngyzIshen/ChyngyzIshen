@@ -12,6 +12,7 @@
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a> 
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
 <a href="https://www.sqlite.org/" target="_blank"><img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-256/free-sqlite-282687.png?f=webp" alt="SQLite" height="50" /></a>
+<a href="https://flywaydb.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Flyway_logo.svg/640px-Flyway_logo.svg.png" alt="Flyway" height="50" /></a>
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/github-512.png" alt="GitHub" height="50" /></a>
 <a href="https://gitlab.com/" target="_blank"><img style="margin: 10px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/144_Gitlab-512.png" alt="GitLab" height="50" /></a> 
