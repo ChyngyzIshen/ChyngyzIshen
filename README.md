@@ -30,7 +30,7 @@
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
 <a href="https://www.atlassian.com/software/jira" target="_blank"><img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" alt="Jira" height="50" /></a>
 <a href="https://trello.com/" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/6124/6124991.png" alt="Trello" height="50" /></a>
-<a href="https://logz.io/" target="_blank"><img style="margin: 10px" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_eddaa7efd3c096e57445623ecd1388dc/logz-io.png" alt="Logz" height="50" /></a> 
+<a href="https://logz.io/" target="_blank"><img style="margin: 10px" src="https://www.socallinuxexpo.org/sites/default/files/logos/logo_vertical_color%20%281%29_0.png" alt="Logz" height="50" /></a> 
 <a href="https://logz.io/blog/kibana-tutorial/" target="_blank"><img style="margin: 10px" src="https://brandslogos.com/wp-content/uploads/thumbs/elastic-kibana-logo-vector.svg" alt="Kibana" height="50" /></a> 
 <a href="https://circleci.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Circleci-icon-logo.svg/475px-Circleci-icon-logo.svg.png" alt="Circleci" height="50" /></a>  
 <a href="https://github.com/features/actions" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" alt="GitHub Actions" height="50" /></a>
